@@ -9,9 +9,9 @@
 **init.sh** contains script for installing all dependencies setting JAVA_HOME and compiling all source code
 ### If dependencies are already installed then comment these lines in init.sh
 ```
-# Install JDK-8, MAVEN and Gradle
+# Install JDK-8, MAVEN, Gradle and libpcap-dev
 # sudo apt-get -y install openjdk-8-jdk openjdk-8-jre
-# sudo apt-get -y install maven gradle
+# sudo apt-get -y install maven gradle libpcap-dev
 
 # Set JAVA_HOME
 # echo "export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/" >> ~/.bash_aliases

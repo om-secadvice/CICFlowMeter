@@ -24,3 +24,10 @@ cd into CICFlowMeter
 $ chmod u+x init.sh
 $ ./init.sh
 ```
+
+# Extracting Flow Features from PCAP files
+```
+$ cd CICFlowMeter
+$ gradle execute
+```
+Select *Network* >> *Offline*

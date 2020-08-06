@@ -30,5 +30,5 @@ $ ./init.sh
 $ cd CICFlowMeter
 $ gradle execute
 ```
-Select *Network* >> *Offline*
+Select *Network* >> *Offline*  
 **Note:** Selecting input directory having many huge pcap files can give memory error, so divide all pcap files into batches and put in different directories
